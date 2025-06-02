@@ -1,0 +1,22 @@
+{
+  "name": "vue-purple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dekan006/vue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dekan006/vue/issues"
+  },
+  "homepage": "https://github.com/dekan006/vue#readme",
+  "dependencies": {
+    "vue": "^3.5.16"
+  }
+}
